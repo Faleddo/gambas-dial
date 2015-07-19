@@ -1,0 +1,17 @@
+# Gambas Form File 2.0
+
+{ Form Form
+  MoveScaled(0,0,50,50)
+  Text = ("")
+  { Dial1 Dial
+    MoveScaled(2,4,46,40)
+  }
+  { Button1 Button
+    MoveScaled(9,46,20,2)
+    Text = ("Button1")
+  }
+  { Label1 Label
+    MoveScaled(2,1,43,2)
+    Text = ("Created by Faleddo | http://faleddo.x10.bz")
+  }
+}
